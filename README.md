@@ -16,6 +16,10 @@ As part of the new year, we could try this initiative - where you can accomplish
 - There's no winning - you fulfill a day's task once you are able to generate the output.
 - A sandbox application shall be provided everyday, where an application will test your code with certain usecases. You can view the execution time and the correctness of the algorithm.
 
+## Naming instructions
+Since many people shall commit on the same repository, please use your NT id followed by an underscore and timestamp (HHMMSS) as the filename.
+For example:
+``` abc1klm_114600.py ```
 
 ## FAQ
 > Can I work on this outside of the organization?
