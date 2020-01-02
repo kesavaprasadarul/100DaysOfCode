@@ -19,7 +19,7 @@ As part of the new year, we could try this initiative - where you can accomplish
 ## Naming instructions
 Since many people shall commit on the same repository, please use your NT id followed by an underscore and timestamp (HHMMSS) as the filename.
 For example:
-``` abc1klm_114600.py ```
+``` abc1klm_114600.py ``` or ```def2nop_235500.cpp```
 
 ## FAQ
 > Can I work on this outside of the organization?
