@@ -28,7 +28,7 @@ It's alright, skip a day. But make sure to compensate within the next day. If yo
 
 > Can I write in multiple languages?
 
-Yes! It wil increase your comprehensiveness across languages. It also helps you to attain language-neutrality, meaning - you will think more algorithm-oriented and worry less about the language with which you're going to code.
+Yes! It will increase your comprehensiveness across languages. It also helps you to attain language-neutrality, meaning - you will think more algorithm-oriented and worry less about the language with which you're going to code.
 
 > What do you mean that there's no winning?
 
