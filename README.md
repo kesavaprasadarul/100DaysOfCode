@@ -1,4 +1,6 @@
 # 100DaysOfCode
+This project has been moved to a private repository.
+
 The repository contains code snippets for the problem statements provided as part of *100 days of code* initiative.
 Please do not fork or modify unless you are participating.
 
